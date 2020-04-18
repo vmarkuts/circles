@@ -29,7 +29,6 @@ iframe {
 
 div {
 	position: absolute;
-    padding: 1.5%;
     z-index: 1;
     text-transform: uppercase;
     color: rgba(255, 255, 255, 0.1);
@@ -40,9 +39,12 @@ div {
 }
 
 h1 {
+    margin-top: 2%;
+    margin-left: 2%;
     font-size: 1vw;
 }
 
 h2 {
+    margin-left: 2%;
     font-size: 0.7vw;	
 }
